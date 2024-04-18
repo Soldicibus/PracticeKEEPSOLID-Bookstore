@@ -9,8 +9,8 @@ Its objectives are:
 
 ##Some images:
 
-<a href="https://ibb.co/GHWpNY6"><img src="https://i.ibb.co/5Kr4wp0/Screenshot-2024-04-18-192719.png" alt="Screenshot-2024-04-18-192719" border="0"></a>
-<a href="https://ibb.co/17mvS7r"><img src="https://i.ibb.co/xX7C4X1/Screenshot-2024-04-18-192732.png" alt="Screenshot-2024-04-18-192732" border="0"></a>
+<img src="https://i.ibb.co/5Kr4wp0/Screenshot-2024-04-18-192719.png" alt="Screenshot-2024-04-18-192719" border="0"></a>
+<img src="https://i.ibb.co/xX7C4X1/Screenshot-2024-04-18-192732.png" alt="Screenshot-2024-04-18-192732" border="0"></a>
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
